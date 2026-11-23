@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+bin/
+data/
+*.log
+*.pid
+*.tar.gz
